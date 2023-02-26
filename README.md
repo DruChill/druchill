@@ -3,7 +3,7 @@
 
 <!-- The 'README.md' is by Arsybai (Arsybai i love you), you can follow here: https://github.com/Arsybai -->
 
-![banner](https://trakteer.id/storage/images/cover/cvr-B9GNsH0QBe7gyRd4oxmbyAlfk2UZzrgC1602042199.jpg)
+![banner](https://www.deviantart.com/aedladru/art/banner-GitHub-951201873)
 
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Andru646)
 
@@ -23,7 +23,6 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-<!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
