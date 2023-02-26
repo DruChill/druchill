@@ -3,7 +3,7 @@
 
 <!-- The 'README.md' is by Arsybai (Arsybai i love you), you can follow here: https://github.com/Arsybai -->
 
-![banner](https://www.deviantart.com/aedladru/art/banner-GitHub-951201873)
+![banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/021047dc-2c54-45b3-8a92-72327b3c6e3a/dfqbk29-49938416-4491-4e96-ba0d-76518fe65fc1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyMTA0N2RjLTJjNTQtNDViMy04YTkyLTcyMzI3YjNjNmUzYVwvZGZxYmsyOS00OTkzODQxNi00NDkxLTRlOTYtYmEwZC03NjUxOGZlNjVmYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xfTbZjuZDAhZ4to3876HKTk-QKIfEqUNp61pEyguKfg)
 
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Andru646)
 
