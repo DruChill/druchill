@@ -8,7 +8,7 @@
 
 ![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/714130357984821270/1024716289530408980/btlPortrait_10402L_zhanyi.png)
 
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Andru646)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DruChill)
 
 ### Hello There
 ---
