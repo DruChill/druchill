@@ -11,16 +11,16 @@
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=7P22SAK9FTTJC)
 
 ### Hello There
-
+---
 ### Currently Studying :
 - Systems Engineering
 
-
+---
 - 🌱 I’m currently learning...
 - 📫 How to reach me: ↓↓↓↓
 - ⚡ Fun fact: Imma Human
 
-
+---
 
 ### OS I use
 
@@ -29,7 +29,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
+---
 
 ### Skills
 
@@ -38,10 +38,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <!-- ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
-
+---
 
 ### Feel free to contact me
 
