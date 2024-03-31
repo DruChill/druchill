@@ -9,7 +9,7 @@
 [![AMV-Scoot-Pilgrim-2.gif](https://i.postimg.cc/gJjt0LWY/AMV-Scoot-Pilgrim-2.gif)](https://postimg.cc/CBysP15t)
 
 <div align="center">
-  <img height="" src="https://github.com/DruChill/druchill/blob/main/ramona-flowers.gif?raw=true"  />
+  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
 </div>
 
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=7P22SAK9FTTJC)
