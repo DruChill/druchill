@@ -12,7 +12,13 @@
   <img height="" src="https://github.com/DruChill/druchill/blob/main/convertir-gif.gif?raw=true"  />
 </div>
 
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=7P22SAK9FTTJC)
+<p>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=7P22SAK9FTTJC">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  <img src="https://hits.sh/github.com/DruChill/druchill.svg?style=for-the-badge&label=Profile%20Views&color=brightgreen"/>
+</p>
+
 
 ### Hello There
 ---
